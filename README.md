@@ -1,4 +1,6 @@
-## Fiddling with Git
+Fiddling with Git
+===
+Week 1 at Makers Academy.
 
 We were trying out Git. Especially forking, sending pull request and then actually using that very same cloned repository to continue working as a collaborator.
 
